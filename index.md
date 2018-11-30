@@ -9,7 +9,11 @@
   
 # Data Sources
 
-  The data on E verify employers can be found following this [link](https://www.e-verify.gov/about-e-verify/e-verify-data/participating-employers) 
+  The data on E verify employers can be found following this [link](https://www.e-verify.gov/about-e-verify/e-verify-data/participating-employers).
+  
+  Data on zipcodes was imported using the python packages zipcodes and uszipcode.
+  
+  Data on counties, major cities and capital cities was download from the site [downloadexcelfiles](https://www.downloadexcelfiles.com/wo_en/download-excel-file-list-cities-us#.XAGXe2hKiHs)
 
 # ETL Methods
 
